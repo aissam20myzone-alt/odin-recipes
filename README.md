@@ -1,2 +1,1 @@
-# odin-recipes
-odin-recipes
+this is my 1st test HTML project
